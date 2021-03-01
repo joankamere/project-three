@@ -19,3 +19,10 @@ $(document).ready(function(){
       $("#hover3").hide();
     });
 });
+$(document).ready(function(){
+    $("#work4").mouseover(function(){
+      $("#hover4").show();
+    }).mouseout(function(){
+      $("#hover4").hide();
+    });
+});
