@@ -33,3 +33,10 @@ $(document).ready(function(){
       $("#hover5").hide();
     });
 });
+$(document).ready(function(){
+    $("#work6").mouseover(function(){
+      $("#hover6").show();
+    }).mouseout(function(){
+      $("#hover6").hide();
+    });
+});
