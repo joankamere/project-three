@@ -47,3 +47,10 @@ $(document).ready(function(){
       $("#hover7").hide();
     });
 });
+$(document).ready(function(){
+    $("#work8").mouseover(function(){
+      $("#hover8").show();
+    }).mouseout(function(){
+      $("#hover8").hide();
+    });
+});
