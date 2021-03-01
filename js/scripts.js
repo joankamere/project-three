@@ -1,7 +1,14 @@
 $(document).ready(function(){
     $("#work1").mouseover(function(){
-      $("#hover").show();
+      $("#hover1").show();
     }).mouseout(function(){
-      $("#hover").hide();
+      $("#hover1").hide();
+    });
+});
+$(document).ready(function(){
+    $("#work2").mouseover(function(){
+      $("#hover2").show();
+    }).mouseout(function(){
+      $("#hover2").hide();
     });
 });
