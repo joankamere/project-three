@@ -40,3 +40,10 @@ $(document).ready(function(){
       $("#hover6").hide();
     });
 });
+$(document).ready(function(){
+    $("#work7").mouseover(function(){
+      $("#hover7").show();
+    }).mouseout(function(){
+      $("#hover7").hide();
+    });
+});
