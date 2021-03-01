@@ -12,3 +12,10 @@ $(document).ready(function(){
       $("#hover2").hide();
     });
 });
+$(document).ready(function(){
+    $("#work3").mouseover(function(){
+      $("#hover3").show();
+    }).mouseout(function(){
+      $("#hover3").hide();
+    });
+});
