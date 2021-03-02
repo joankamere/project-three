@@ -89,4 +89,27 @@
     align-items: center;
     text-align: center;
   }
- 
+ #hover1 {
+     display: none;
+ }
+ #hover2 {
+    display: none;
+}
+#hover3 {
+    display: none;
+}
+#hover4 {
+    display: none;
+}
+#hover5 {
+    display: none;
+}
+#hover6 {
+    display: none;
+}
+#hover7 {
+    display: none;
+}
+#hover8 {
+    display: none;
+}
