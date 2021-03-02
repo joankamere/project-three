@@ -20,7 +20,7 @@ Delani Studio, a website created to give more information on the service.
 https://joankamere.github.io/project-three/
 
 ## Technologies Used
-HTML, CSS, Javascript, Bootsrtap, Jquery
+HTML, CSS, Javascript, Bootsrtap, JQuery
 
 ## Contact Information
 Email: joankamere@gmail.com
