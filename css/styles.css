@@ -65,7 +65,10 @@
     padding-bottom: 5%; 
     
 }
-
+.contacts {
+    padding-top: 5%;
+    padding-bottom: 5%; 
+}
 .footer {
     text-align: center;
     background-position: center center;
@@ -82,3 +85,8 @@
   #pm {
     display: none;
   }
+  .submit-btn {
+    align-items: center;
+    text-align: center;
+  }
+ 
