@@ -25,7 +25,6 @@ $(document).ready(function() {
         $(this).animate({ opacity: '0' });
       })
   });
-
 $(document).ready(function(){
   $("form#formXYZ").submit(function(event){
     var name = $("input#ALT1").val();
