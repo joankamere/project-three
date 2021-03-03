@@ -56,15 +56,7 @@
     color: black;
     align-items: center;
     padding-top: 5%;
-    padding-bottom: 5%; 
-}
-#designz {
-    display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  margin-left: 10%;
-  margin-right: 10%;
-    
+    padding-bottom: 5%;   
 }
 .contacts {
     padding-top: 5%;
@@ -90,27 +82,17 @@
     align-items: center;
     text-align: center;
   }
- #hover1 {
-     display: none;
- }
- #hover2 {
-    display: none;
+
+.mouse {
+    opacity:0;
+    background-color: rgba(255, 255, 255, 0.623);
+    position: absolute;
+    top:25%;
+    bottom:25%;
+    left:25%;
+    right:25%; 
 }
-#hover3 {
-    display: none;
-}
-#hover4 {
-    display: none;
-}
-#hover5 {
-    display: none;
-}
-#hover6 {
-    display: none;
-}
-#hover7 {
-    display: none;
-}
-#hover8 {
-    display: none;
+
+#designz {
+    padding:2%;
 }
