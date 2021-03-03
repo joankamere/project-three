@@ -1,3 +1,4 @@
+  
 $(document).ready(function() {
   $(".click").click(function() {
     $("#design-image").toggle();
@@ -17,11 +18,11 @@ $(document).ready(function() {
     });
   });
 $(document).ready(function(){
-    $("#work1").mouseover(function(){
-      $("#hover1").show();
-    }).mouseout(function(){
-      $("#hover1").hide();
-    });
+  $("#work1").mouseover(function(){
+    $("#hover1").show();
+  }).mouseout(function(){
+    $("#hover1").hide();
+  });
 });
 $(document).ready(function(){
     $("#work2").mouseover(function(){
